@@ -1,0 +1,3 @@
+*.txt
+!track.txt
+!track2.txt
